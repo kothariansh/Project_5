@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="checker-qual-2.5.2">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/checker-qual-2.5.2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/commons-lang3-3.14.0-tests.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/commons-lang3-3.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/commons-lang3-3.14.0-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/commons-lang3-3.14.0-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
